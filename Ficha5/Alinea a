@@ -1,0 +1,6 @@
+O Clubo "Bizarro" é uma orginazação desportiva que se foca na realização competitiva de várias modalidades, esta organiza competições sobre as mesmas. O Clube é liderado por um presidente que supervisiona todas as operações e garante que as mesmas se realizem sem problemas.
+
+Para criar um estado organizado no Clube, todos os atletas necessitam de ter um número único de forma a não causar problemas entre os mesmos, de onde vêm, a sua data de nascimento, assim como a modalidade que participa e qual o treinador responsável por ele. Cada modalidade possui um código único e uma descrição da mesma para que erros na escolha de modalidade não aconteçam.
+
+Os atletas são então capazes de participar em várias provas ao longo do ano, onde são capazes de ganhar prêmios de acordo com a classificação que obtêm. Cada prova é realizada em um local específico, sendo dirigida por um diretor de evento em uma data marcada anteriormente, qual a designação da mesma e podendo ser participada por vários atletas.
+Além disso, cada prova possui patrocinadores de modo a financiar a prova, sendo impossível realizar alguma prova sem o financiamento dos mesmos.
